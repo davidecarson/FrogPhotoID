@@ -1,0 +1,31 @@
+﻿Build started 11/11/2013 10:03:09 AM.
+     1>Project "C:\Users\dcarson1\Dropbox\UND\2013\Fall 2013\EE480 Senior Design I\Test Code\FrogMatcher\FrogMatcher\FrogMatcher.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "C:\Users\dcarson1\Dropbox\UND\2013\Fall 2013\EE480 Senior Design I\Test Code\FrogMatcher\x64\Debug\".
+       InitializeBuildStatus:
+         Creating "x64\Debug\FrogMatcher.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /IH:\opencv\build\\include /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"x64\Debug\FrogMatcher.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /IH:\opencv\build\\include /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"x64\Debug\FrogMatcher.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt FrogMatcher.cpp
+         FrogMatcher.cpp
+     1>FrogMatcher.cpp(72): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>FrogMatcher.cpp(72): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>FrogMatcher.cpp(76): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>FrogMatcher.cpp(76): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>FrogMatcher.cpp(87): warning C4244: 'argument' : conversion from 'const float' to 'int', possible loss of data
+     1>FrogMatcher.cpp(88): warning C4244: 'argument' : conversion from 'const float' to 'int', possible loss of data
+     1>FrogMatcher.cpp(98): warning C4244: 'argument' : conversion from 'const float' to 'int', possible loss of data
+     1>FrogMatcher.cpp(99): warning C4244: 'argument' : conversion from 'const float' to 'int', possible loss of data
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"x64\Debug\FrogMatcher.exe.embed.manifest.res" x64\Debug\FrogMatcher_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dcarson1\Dropbox\UND\2013\Fall 2013\EE480 Senior Design I\Test Code\FrogMatcher\x64\Debug\FrogMatcher.exe" /INCREMENTAL /NOLOGO /LIBPATH:H:\opencv\build\\x64\vc10\lib opencv_calib3d246d.lib opencv_contrib246d.lib opencv_core246d.lib opencv_features2d246d.lib opencv_flann246d.lib opencv_gpu246d.lib opencv_haartraining_engined.lib opencv_highgui246d.lib opencv_imgproc246d.lib opencv_legacy246d.lib opencv_ml246d.lib opencv_nonfree246d.lib opencv_objdetect246d.lib opencv_ocl246d.lib opencv_photo246d.lib opencv_stitching246d.lib opencv_superres246d.lib opencv_ts246d.lib opencv_video246d.lib opencv_videostab246d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Debug\FrogMatcher.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\dcarson1\Dropbox\UND\2013\Fall 2013\EE480 Senior Design I\Test Code\FrogMatcher\x64\Debug\FrogMatcher.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\dcarson1\Dropbox\UND\2013\Fall 2013\EE480 Senior Design I\Test Code\FrogMatcher\x64\Debug\FrogMatcher.lib" /MACHINE:X64 x64\Debug\FrogMatcher.exe.embed.manifest.res
+         x64\Debug\FrogMatcher.obj
+         x64\Debug\stdafx.obj
+     1>LINK : fatal error LNK1123: failure during conversion to COFF: file invalid or corrupt
+     1>Done Building Project "C:\Users\dcarson1\Dropbox\UND\2013\Fall 2013\EE480 Senior Design I\Test Code\FrogMatcher\FrogMatcher\FrogMatcher.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.29

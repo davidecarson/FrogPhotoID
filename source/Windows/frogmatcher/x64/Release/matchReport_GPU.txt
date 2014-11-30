@@ -1,0 +1,46 @@
+Frog Image Match Report
+Ratio, conf, dist, minH: 0.7	0.99	1	500	1
+Start Sat Apr 19 14:10:28 2014
+\SetsNew\Rs10\Rs10-006.jpg	  run time (secs): 	 	 	 	 	 4.71015
+Rs10-009.jpg	 Rs09-102.jpg	 1	 254	 7	 254
+\SetsNew\Rs10\Rs10-009.jpg	  run time (secs): 	 	 	 	 	 4.83605
+\SetsNew\Rs10\Rs10-012.jpg	  run time (secs): 	 	 	 	 	 4.12888
+Rs10-027.jpg	 Rs09-056.jpg	 1	 241	 7	 241
+\SetsNew\Rs10\Rs10-027.jpg	  run time (secs): 	 	 	 	 	 4.54129
+\SetsNew\Rs10\Rs10-031.jpg	  run time (secs): 	 	 	 	 	 4.12653
+\SetsNew\Rs10\Rs10-035.jpg	  run time (secs): 	 	 	 	 	 4.46106
+\SetsNew\Rs10\Rs10-036.jpg	  run time (secs): 	 	 	 	 	 4.55466
+\SetsNew\Rs10\Rs10-041.jpg	  run time (secs): 	 	 	 	 	 4.44431
+\SetsNew\Rs10\Rs10-042.jpg	  run time (secs): 	 	 	 	 	 4.02061
+\SetsNew\Rs10\Rs10-055.jpg	  run time (secs): 	 	 	 	 	 4.22425
+\SetsNew\Rs10\Rs10-073.jpg	  run time (secs): 	 	 	 	 	 4.60024
+Rs10-077.jpg	 Rs09-154.jpg	 1	 280	 7	 280
+\SetsNew\Rs10\Rs10-077.jpg	  run time (secs): 	 	 	 	 	 4.58928
+\SetsNew\Rs10\Rs10-078.jpg	  run time (secs): 	 	 	 	 	 4.45339
+\SetsNew\Rs10\Rs10-079.jpg	  run time (secs): 	 	 	 	 	 4.30631
+\SetsNew\Rs10\Rs10-081.jpg	  run time (secs): 	 	 	 	 	 4.04401
+\SetsNew\Rs10\Rs10-082.jpg	  run time (secs): 	 	 	 	 	 4.36279
+\SetsNew\Rs10\Rs10-083.jpg	  run time (secs): 	 	 	 	 	 4.21264
+\SetsNew\Rs10\Rs10-084.jpg	  run time (secs): 	 	 	 	 	 4.35279
+\SetsNew\Rs10\Rs10-085.jpg	  run time (secs): 	 	 	 	 	 4.15121
+\SetsNew\Rs10\Rs10-086.jpg	  run time (secs): 	 	 	 	 	 3.99986
+\SetsNew\Rs10\Rs10-087.jpg	  run time (secs): 	 	 	 	 	 4.39161
+\SetsNew\Rs10\Rs10-088.jpg	  run time (secs): 	 	 	 	 	 4.26946
+\SetsNew\Rs10\Rs10-093.jpg	  run time (secs): 	 	 	 	 	 4.33753
+Rs10-119.jpg	 Rs09-058.jpg	 1	 221	 9	 285
+\SetsNew\Rs10\Rs10-119.jpg	  run time (secs): 	 	 	 	 	 4.77068
+Rs10-122.jpg	 Rs09-074.jpg	 1	 230	 7	 230
+\SetsNew\Rs10\Rs10-122.jpg	  run time (secs): 	 	 	 	 	 4.37003
+Rs10-126.jpg	 Rs09-027.jpg	 1	 218	 9	 281
+\SetsNew\Rs10\Rs10-126.jpg	  run time (secs): 	 	 	 	 	 5.57057
+\SetsNew\Rs10\Rs10-135.jpg	  run time (secs): 	 	 	 	 	 4.24262
+Rs10-138.jpg	 Rs09-063.jpg	 1	 211	 9	 272
+\SetsNew\Rs10\Rs10-138.jpg	  run time (secs): 	 	 	 	 	 4.61967
+\SetsNew\Rs10\Rs10-153.jpg	  run time (secs): 	 	 	 	 	 4.2771
+\SetsNew\Rs10\Rs10-154.jpg	  run time (secs): 	 	 	 	 	 5.14359
+Rs10-191.jpg	 Rs09-086.jpg	 1	 219	 7	 219
+\SetsNew\Rs10\Rs10-191.jpg	  run time (secs): 	 	 	 	 	 3.85343
+Rs10-195.jpg	 Rs09-088.jpg	 1	 114	 13	 114
+\SetsNew\Rs10\Rs10-195.jpg	  run time (secs): 	 	 	 	 	 3.47238
+Total Matches	1024
+Run time: 140.444

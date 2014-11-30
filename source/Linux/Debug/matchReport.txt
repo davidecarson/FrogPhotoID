@@ -1,0 +1,5 @@
+Frog Image Match Report
+Ratio, conf, dist, minH: 0.7	0.99	1	500	0
+Start Sat Apr 19 15:03:39 2014
+Total Matches	0
+Run time: 0.0234903

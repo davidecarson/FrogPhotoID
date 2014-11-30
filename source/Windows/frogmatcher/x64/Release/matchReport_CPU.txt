@@ -1,0 +1,82 @@
+Frog Image Match Report
+Ratio, conf, dist, minH: 0.7	0.99	1	500
+Start Sat Apr 19 16:05:29 2014
+Rs10-006.jpg	 Rs09-026.jpg	 1	 279	 15	 598
+\SetsNew\Rs10\Rs10-006.jpg	  run time (secs): 	 	 	 	 	 9.69002
+Rs10-009.jpg	 Rs09-051.jpg	 1	 278	 9	 358
+Rs10-009.jpg	 Rs09-102.jpg	 1	 281	 10	 351
+\SetsNew\Rs10\Rs10-009.jpg	  run time (secs): 	 	 	 	 	 11.1894
+\SetsNew\Rs10\Rs10-012.jpg	  run time (secs): 	 	 	 	 	 9.5664
+Rs10-027.jpg	 Rs09-045.jpg	 1	 274	 9	 352
+Rs10-027.jpg	 Rs09-053.jpg	 1	 260	 11	 410
+\SetsNew\Rs10\Rs10-027.jpg	  run time (secs): 	 	 	 	 	 10.8595
+Rs10-031.jpg	 Rs09-026.jpg	 1	 300	 13	 557
+Rs10-031.jpg	 Rs09-041.jpg	 1	 296	 11	 465
+Rs10-031.jpg	 Rs09-054.jpg	 1	 286	 15	 614
+Rs10-031.jpg	 Rs09-237.jpg	 1	 238	 9	 306
+\SetsNew\Rs10\Rs10-031.jpg	  run time (secs): 	 	 	 	 	 10.763
+\SetsNew\Rs10\Rs10-035.jpg	  run time (secs): 	 	 	 	 	 9.94694
+Rs10-036.jpg	 Rs09-054.jpg	 1	 265	 11	 417
+Rs10-036.jpg	 Rs09-063.jpg	 1	 312	 11	 491
+\SetsNew\Rs10\Rs10-036.jpg	  run time (secs): 	 	 	 	 	 10.878
+\SetsNew\Rs10\Rs10-041.jpg	  run time (secs): 	 	 	 	 	 10.5938
+Rs10-042.jpg	 Rs09-101.jpg	 1	 344	 7	 344
+\SetsNew\Rs10\Rs10-042.jpg	  run time (secs): 	 	 	 	 	 9.36682
+Rs10-055.jpg	 Rs09-189.jpg	 1	 292	 7	 292
+\SetsNew\Rs10\Rs10-055.jpg	  run time (secs): 	 	 	 	 	 10.1371
+Rs10-073.jpg	 Rs09-063.jpg	 1	 296	 7	 296
+\SetsNew\Rs10\Rs10-073.jpg	  run time (secs): 	 	 	 	 	 10.7087
+Rs10-077.jpg	 Rs09-053.jpg	 1	 271	 9	 349
+Rs10-077.jpg	 Rs09-154.jpg	 1	 319	 9	 411
+\SetsNew\Rs10\Rs10-077.jpg	  run time (secs): 	 	 	 	 	 10.8108
+Rs10-078.jpg	 Rs09-074.jpg	 1	 284	 7	 284
+\SetsNew\Rs10\Rs10-078.jpg	  run time (secs): 	 	 	 	 	 10.6375
+Rs10-079.jpg	 Rs09-027.jpg	 1	 295	 9	 380
+Rs10-079.jpg	 Rs09-063.jpg	 1	 317	 11	 498
+\SetsNew\Rs10\Rs10-079.jpg	  run time (secs): 	 	 	 	 	 10.2726
+Rs10-081.jpg	 Rs09-043.jpg	 1	 296	 13	 551
+Rs10-081.jpg	 Rs09-088.jpg	 1	 269	 9	 346
+\SetsNew\Rs10\Rs10-081.jpg	  run time (secs): 	 	 	 	 	 10.016
+Rs10-082.jpg	 Rs09-058.jpg	 1	 291	 13	 541
+\SetsNew\Rs10\Rs10-082.jpg	  run time (secs): 	 	 	 	 	 10.2544
+Rs10-083.jpg	 Rs09-045.jpg	 1	 279	 11	 438
+\SetsNew\Rs10\Rs10-083.jpg	  run time (secs): 	 	 	 	 	 10.0699
+Rs10-084.jpg	 Rs09-063.jpg	 1	 284	 9	 365
+\SetsNew\Rs10\Rs10-084.jpg	  run time (secs): 	 	 	 	 	 10.4831
+Rs10-085.jpg	 Rs09-074.jpg	 1	 316	 7	 316
+\SetsNew\Rs10\Rs10-085.jpg	  run time (secs): 	 	 	 	 	 9.9027
+Rs10-086.jpg	 Rs09-045.jpg	 1	 254	 17	 617
+Rs10-086.jpg	 Rs09-053.jpg	 1	 341	 9	 438
+Rs10-086.jpg	 Rs09-063.jpg	 1	 334	 9	 429
+\SetsNew\Rs10\Rs10-086.jpg	  run time (secs): 	 	 	 	 	 10.0054
+Rs10-087.jpg	 Rs09-086.jpg	 1	 279	 11	 439
+\SetsNew\Rs10\Rs10-087.jpg	  run time (secs): 	 	 	 	 	 10.1612
+\SetsNew\Rs10\Rs10-088.jpg	  run time (secs): 	 	 	 	 	 9.82824
+Rs10-093.jpg	 Rs09-053.jpg	 1	 305	 9	 393
+\SetsNew\Rs10\Rs10-093.jpg	  run time (secs): 	 	 	 	 	 10.1314
+Rs10-119.jpg	 Rs09-045.jpg	 1	 306	 11	 481
+Rs10-119.jpg	 Rs09-058.jpg	 1	 243	 7	 243
+\SetsNew\Rs10\Rs10-119.jpg	  run time (secs): 	 	 	 	 	 11.3512
+Rs10-122.jpg	 Rs09-026.jpg	 1	 318	 11	 500
+Rs10-122.jpg	 Rs09-056.jpg	 1	 303	 9	 389
+Rs10-122.jpg	 Rs09-154.jpg	 1	 291	 7	 291
+\SetsNew\Rs10\Rs10-122.jpg	  run time (secs): 	 	 	 	 	 10.5346
+Rs10-126.jpg	 Rs09-027.jpg	 1	 134	 13	 134
+Rs10-126.jpg	 Rs09-055.jpg	 1	 281	 15	 603
+Rs10-126.jpg	 Rs09-086.jpg	 1	 257	 9	 330
+\SetsNew\Rs10\Rs10-126.jpg	  run time (secs): 	 	 	 	 	 13.353
+Rs10-135.jpg	 Rs09-074.jpg	 1	 280	 9	 361
+\SetsNew\Rs10\Rs10-135.jpg	  run time (secs): 	 	 	 	 	 9.99878
+Rs10-138.jpg	 Rs09-063.jpg	 1	 170	 11	 170
+\SetsNew\Rs10\Rs10-138.jpg	  run time (secs): 	 	 	 	 	 10.8558
+Rs10-153.jpg	 Rs09-026.jpg	 1	 259	 9	 333
+\SetsNew\Rs10\Rs10-153.jpg	  run time (secs): 	 	 	 	 	 10.0837
+\SetsNew\Rs10\Rs10-154.jpg	  run time (secs): 	 	 	 	 	 11.5181
+Rs10-191.jpg	 Rs09-045.jpg	 1	 253	 13	 471
+Rs10-191.jpg	 Rs09-086.jpg	 1	 113	 14	 113
+\SetsNew\Rs10\Rs10-191.jpg	  run time (secs): 	 	 	 	 	 9.4543
+Rs10-195.jpg	 Rs09-040.jpg	 1	 359	 7	 359
+Rs10-195.jpg	 Rs09-088.jpg	 1	 240	 7	 240
+\SetsNew\Rs10\Rs10-195.jpg	  run time (secs): 	 	 	 	 	 7.99997
+Total Matches	1024
+Run time: 331.429

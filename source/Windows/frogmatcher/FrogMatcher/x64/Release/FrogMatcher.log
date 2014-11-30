@@ -1,0 +1,26 @@
+﻿Build started 5/9/2014 10:20:59 AM.
+     1>Project "C:\Users\David\Documents\GitHub\frogid\source\Windows\frogmatcher\FrogMatcher\FrogMatcher.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /IC:\opencv_dc\include /Zi /nologo /W3 /WX- /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Release\FrogMatcher.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc110.pdb" /Gd /TP /errorReport:prompt FrogMatcher.cpp
+         FrogMatcher.cpp
+     1>c:\users\david\documents\github\frogid\source\windows\frogmatcher\frogmatcher\FrogMatcher.h(95): warning C4244: 'return' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\david\documents\github\frogid\source\windows\frogmatcher\frogmatcher\FrogMatcher.h(99): warning C4244: 'return' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\david\documents\github\frogid\source\windows\frogmatcher\frogmatcher\FrogMatcher.h(103): warning C4244: 'return' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\david\documents\github\frogid\source\windows\frogmatcher\frogmatcher\FrogMatcher.h(107): warning C4244: 'return' : conversion from 'double' to 'int', possible loss of data
+     1>FrogMatcher.cpp(258): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>FrogMatcher.cpp(262): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>FrogMatcher.cpp(275): warning C4244: 'argument' : conversion from 'const float' to 'int', possible loss of data
+     1>FrogMatcher.cpp(276): warning C4244: 'argument' : conversion from 'const float' to 'int', possible loss of data
+     1>FrogMatcher.cpp(286): warning C4244: 'argument' : conversion from 'const float' to 'int', possible loss of data
+     1>FrogMatcher.cpp(287): warning C4244: 'argument' : conversion from 'const float' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\David\Documents\GitHub\frogid\source\Windows\frogmatcher\x64\Release\FrogMatcher.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\opencv_dc\x64\vc11\lib opencv_calib3d248.lib opencv_contrib248.lib opencv_core248.lib opencv_features2d248.lib opencv_flann248.lib opencv_gpu248.lib opencv_highgui248.lib opencv_imgproc248.lib opencv_legacy248.lib opencv_ml248.lib opencv_nonfree248.lib opencv_objdetect248.lib opencv_ocl248.lib opencv_photo248.lib opencv_stitching248.lib opencv_superres248.lib opencv_ts248.lib opencv_video248.lib opencv_videostab248.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\David\Documents\GitHub\frogid\source\Windows\frogmatcher\x64\Release\FrogMatcher.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\David\Documents\GitHub\frogid\source\Windows\frogmatcher\x64\Release\FrogMatcher.lib" /MACHINE:X64 x64\Release\FrogMatcher.obj
+         x64\Release\stdafx.obj
+         Generating code
+         Finished generating code
+         FrogMatcher.vcxproj -> C:\Users\David\Documents\GitHub\frogid\source\Windows\frogmatcher\x64\Release\FrogMatcher.exe
+     1>Done Building Project "C:\Users\David\Documents\GitHub\frogid\source\Windows\frogmatcher\FrogMatcher\FrogMatcher.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.40

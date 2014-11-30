@@ -1,0 +1,11 @@
+Frog Image Match Report
+Ratio, conf, dist, minH: 0.7	0.99	1	500	1
+Start Sat Apr 19 15:10:45 2014
+Rs10-006.jpg	 Rs09-026.jpg	 1	 279	 15	 598
+Rs10-006.jpg	 Rs09-027.jpg	 0	 1000000
+Rs10-006.jpg	 Rs09-034.jpg	 0	 1000000
+Rs10-006.jpg	 Rs09-040.jpg	 0	 1000000
+Rs10-006.jpg	 Rs09-041.jpg	 0	 1000000
+Rs10-006.jpg	 Rs09-042.jpg	 0	 1000000
+Rs10-006.jpg	 Rs09-043.jpg	 0	 1000000
+Rs10-006.jpg	 Rs09-044.jpg	 0	 1000000
